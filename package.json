@@ -1,0 +1,20 @@
+{
+  "name": "async2",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "async2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NJackson2/async.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NJackson2/async/issues"
+  },
+  "homepage": "https://github.com/NJackson2/async#readme"
+}
